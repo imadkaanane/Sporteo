@@ -1,0 +1,121 @@
+﻿Ligne_ID;Commande_ID;Date;Magasin_ID;Produit_ID;Client_ID;Canal;Quantite;Prix_unitaire;Remise_taux;Quantite_retournee;Cout_unitaire;Motif
+L000001;CMD000001;2025-02-31;M8;P048;C10769;Magasin;3;122.20000000;0.16000000;0;71.49000000;Date, quantité, référentiel, retour ou remise invalide : voir les règles ci-dessus.
+L000500;CMD000250;2024-11-03;M5;P019;C10644;Click & Collect;-2;148.80000000;0.16000000;0;75.89000000;Date, quantité, référentiel, retour ou remise invalide : voir les règles ci-dessus.
+L000999;CMD000500;2024-03-04;M7;INCONNU;C10167;Magasin;2;111.35000000;0.06000000;0;59.57000000;Date, quantité, référentiel, retour ou remise invalide : voir les règles ci-dessus.
+L001498;CMD000749;2025-07-04;M3;P035;C08451;Magasin;3;32.55000000;1.50000000;0;18.23000000;Date, quantité, référentiel, retour ou remise invalide : voir les règles ci-dessus.
+L001997;CMD000999;2025-02-31;M1;P019;C09194;Magasin;3;148.80000000;0.16000000;0;75.89000000;Date, quantité, référentiel, retour ou remise invalide : voir les règles ci-dessus.
+L002496;CMD001248;2025-03-02;M8;P034;C10755;Magasin;-2;25.90000000;0.14000000;0;14.50000000;Date, quantité, référentiel, retour ou remise invalide : voir les règles ci-dessus.
+L002995;CMD001498;2025-10-23;M4;INCONNU;C09694;Magasin;1;62.90000000;0.06000000;0;33.65000000;Date, quantité, référentiel, retour ou remise invalide : voir les règles ci-dessus.
+L003494;CMD001747;2024-01-10;M5;P019;C11678;Click & Collect;2;148.80000000;1.50000000;0;75.89000000;Date, quantité, référentiel, retour ou remise invalide : voir les règles ci-dessus.
+L003993;CMD001997;2025-02-31;M3;P043;C07251;Click & Collect;1;60.45000000;0.14000000;0;35.36000000;Date, quantité, référentiel, retour ou remise invalide : voir les règles ci-dessus.
+L004492;CMD002246;2024-04-23;M6;P035;C05997;Click & Collect;-2;32.55000000;0.06000000;0;18.23000000;Date, quantité, référentiel, retour ou remise invalide : voir les règles ci-dessus.
+L004991;CMD002496;2024-08-03;M6;INCONNU;C06163;Magasin;2;95.20000000;0.06000000;0;50.93000000;Date, quantité, référentiel, retour ou remise invalide : voir les règles ci-dessus.
+L005490;CMD002745;2024-08-10;M5;P021;C09805;Magasin;1;209.60000000;1.50000000;0;106.90000000;Date, quantité, référentiel, retour ou remise invalide : voir les règles ci-dessus.
+L005989;CMD002995;2025-02-31;M5;P038;C08274;Click & Collect;2;52.50000000;0.14000000;0;29.40000000;Date, quantité, référentiel, retour ou remise invalide : voir les règles ci-dessus.
+L006488;CMD003244;2025-01-12;M6;P046;C00632;Magasin;-2;97.50000000;0.24000000;0;57.04000000;Date, quantité, référentiel, retour ou remise invalide : voir les règles ci-dessus.
+L006987;CMD003494;2024-01-21;M7;INCONNU;C08944;Magasin;3;300.80000000;0.16000000;0;153.41000000;Date, quantité, référentiel, retour ou remise invalide : voir les règles ci-dessus.
+L007486;CMD003743;2025-03-12;M4;P048;C03325;Magasin;2;122.20000000;1.50000000;0;71.49000000;Date, quantité, référentiel, retour ou remise invalide : voir les règles ci-dessus.
+L007985;CMD003993;2025-02-31;M4;P008;C00228;Magasin;2;178.60000000;0.06000000;0;82.16000000;Date, quantité, référentiel, retour ou remise invalide : voir les règles ci-dessus.
+L008484;CMD004242;2025-05-18;M2;P037;C06096;Magasin;-2;45.85000000;0.10000000;0;25.68000000;Date, quantité, référentiel, retour ou remise invalide : voir les règles ci-dessus.
+L008983;CMD004492;2024-07-12;M8;INCONNU;C04066;Magasin;3;59.15000000;0.16000000;0;33.12000000;Date, quantité, référentiel, retour ou remise invalide : voir les règles ci-dessus.
+L009482;CMD004741;2025-02-26;M4;P007;C10616;Click & Collect;3;160.55000000;1.50000000;0;73.85000000;Date, quantité, référentiel, retour ou remise invalide : voir les règles ci-dessus.
+L009981;CMD004991;2025-02-31;M5;P006;C02159;Magasin;3;142.50000000;0.24000000;0;65.55000000;Date, quantité, référentiel, retour ou remise invalide : voir les règles ci-dessus.
+L010480;CMD005240;2024-05-26;M8;P004;C07988;Click & Collect;-2;106.40000000;0.06000000;0;48.94000000;Date, quantité, référentiel, retour ou remise invalide : voir les règles ci-dessus.
+L010979;CMD005490;2025-05-26;M1;INCONNU;C11757;Magasin;2;45.85000000;0.16000000;0;25.68000000;Date, quantité, référentiel, retour ou remise invalide : voir les règles ci-dessus.
+L011478;CMD005739;2025-08-29;M6;P003;C02081;Magasin;3;88.35000000;1.50000000;0;40.64000000;Date, quantité, référentiel, retour ou remise invalide : voir les règles ci-dessus.
+L011977;CMD005989;2025-02-31;M8;P030;C03705;Click & Collect;1;127.50000000;0.14000000;0;68.21000000;Date, quantité, référentiel, retour ou remise invalide : voir les règles ci-dessus.
+L012476;CMD006238;2025-05-15;M4;P025;C10845;Click & Collect;-2;46.75000000;0.14000000;0;25.01000000;Date, quantité, référentiel, retour ou remise invalide : voir les règles ci-dessus.
+L012975;CMD006488;2025-05-16;M5;INCONNU;C11722;Click & Collect;1;62.90000000;0.06000000;0;33.65000000;Date, quantité, référentiel, retour ou remise invalide : voir les règles ci-dessus.
+L013474;CMD006737;2024-01-01;M1;P021;C11534;Magasin;1;209.60000000;1.50000000;0;106.90000000;Date, quantité, référentiel, retour ou remise invalide : voir les règles ci-dessus.
+L013973;CMD006987;2025-02-31;M6;P043;C10389;Click & Collect;2;60.45000000;0.14000000;0;35.36000000;Date, quantité, référentiel, retour ou remise invalide : voir les règles ci-dessus.
+L014472;CMD007236;2024-05-17;M3;P022;C11004;Magasin;-2;240.00000000;0.06000000;0;122.40000000;Date, quantité, référentiel, retour ou remise invalide : voir les règles ci-dessus.
+L014971;CMD007486;2024-10-01;M3;INCONNU;C06624;Magasin;2;35.75000000;0.14000000;0;20.91000000;Date, quantité, référentiel, retour ou remise invalide : voir les règles ci-dessus.
+L015470;CMD007735;2024-07-19;M1;P004;C06361;Click & Collect;2;106.40000000;1.50000000;0;48.94000000;Date, quantité, référentiel, retour ou remise invalide : voir les règles ci-dessus.
+L015969;CMD007985;2025-02-31;M2;P029;C08884;Click & Collect;3;111.35000000;0.18000000;0;59.57000000;Date, quantité, référentiel, retour ou remise invalide : voir les règles ci-dessus.
+L016468;CMD008234;2024-05-01;M5;P008;C10278;Magasin;-2;178.60000000;0.06000000;0;82.16000000;Date, quantité, référentiel, retour ou remise invalide : voir les règles ci-dessus.
+L016967;CMD008484;2024-10-23;M5;INCONNU;C09426;Click & Collect;3;72.80000000;0.06000000;0;42.59000000;Date, quantité, référentiel, retour ou remise invalide : voir les règles ci-dessus.
+L017466;CMD008733;2025-11-08;M5;P007;C03416;Magasin;2;160.55000000;1.50000000;0;73.85000000;Date, quantité, référentiel, retour ou remise invalide : voir les règles ci-dessus.
+L017965;CMD008983;2025-02-31;M2;P001;C02254;Magasin;3;52.25000000;0.20000000;0;24.04000000;Date, quantité, référentiel, retour ou remise invalide : voir les règles ci-dessus.
+L018464;CMD009232;2024-06-06;M3;P031;C06364;Click & Collect;-2;143.65000000;0.06000000;0;76.85000000;Date, quantité, référentiel, retour ou remise invalide : voir les règles ci-dessus.
+L018963;CMD009482;2025-08-20;M1;INCONNU;C08693;Magasin;2;148.80000000;0.24000000;1;75.89000000;Date, quantité, référentiel, retour ou remise invalide : voir les règles ci-dessus.
+L019462;CMD009731;2025-07-02;M6;P034;C05869;Click & Collect;2;25.90000000;1.50000000;0;14.50000000;Date, quantité, référentiel, retour ou remise invalide : voir les règles ci-dessus.
+L019961;CMD009981;2025-02-31;M6;P033;C05654;Click & Collect;1;19.25000000;0.24000000;0;10.78000000;Date, quantité, référentiel, retour ou remise invalide : voir les règles ci-dessus.
+L020460;CMD010230;2025-06-24;M7;P018;C05593;Magasin;-2;118.40000000;0.06000000;0;60.38000000;Date, quantité, référentiel, retour ou remise invalide : voir les règles ci-dessus.
+L020959;CMD010480;2025-05-27;M3;INCONNU;C02030;Magasin;2;45.85000000;0.14000000;0;25.68000000;Date, quantité, référentiel, retour ou remise invalide : voir les règles ci-dessus.
+L021458;CMD010729;2024-06-15;M5;P033;C03792;Magasin;1;19.25000000;1.50000000;0;10.78000000;Date, quantité, référentiel, retour ou remise invalide : voir les règles ci-dessus.
+L021957;CMD010979;2025-02-31;M6;P047;C00380;Magasin;1;109.85000000;0.06000000;0;64.26000000;Date, quantité, référentiel, retour ou remise invalide : voir les règles ci-dessus.
+L022456;CMD011228;2025-04-28;M5;P034;C05944;Magasin;-2;25.90000000;0.14000000;0;14.50000000;Date, quantité, référentiel, retour ou remise invalide : voir les règles ci-dessus.
+L022955;CMD011478;2025-11-11;M2;INCONNU;C02247;Magasin;1;127.50000000;0.28000000;0;68.21000000;Date, quantité, référentiel, retour ou remise invalide : voir les règles ci-dessus.
+L023454;CMD011727;2025-03-18;M2;P006;C03533;Click & Collect;2;142.50000000;1.50000000;0;65.55000000;Date, quantité, référentiel, retour ou remise invalide : voir les règles ci-dessus.
+L023953;CMD011977;2025-02-31;M4;P033;C07971;Magasin;3;19.25000000;0.16000000;0;10.78000000;Date, quantité, référentiel, retour ou remise invalide : voir les règles ci-dessus.
+L024452;CMD012226;2025-05-01;M8;P026;C02871;Magasin;-2;62.90000000;0.14000000;0;33.65000000;Date, quantité, référentiel, retour ou remise invalide : voir les règles ci-dessus.
+L024951;CMD012476;2024-11-13;M2;INCONNU;C09047;Magasin;2;106.40000000;0.20000000;0;48.94000000;Date, quantité, référentiel, retour ou remise invalide : voir les règles ci-dessus.
+L025450;CMD012725;2025-02-19;M7;P044;C09278;Click & Collect;1;72.80000000;1.50000000;0;42.59000000;Date, quantité, référentiel, retour ou remise invalide : voir les règles ci-dessus.
+L025949;CMD012975;2025-02-31;M5;P010;C06172;Magasin;3;40.70000000;0.16000000;0;19.74000000;Date, quantité, référentiel, retour ou remise invalide : voir les règles ci-dessus.
+L026448;CMD013224;2024-02-06;M8;P020;C01312;Magasin;-2;179.20000000;0.06000000;0;91.39000000;Date, quantité, référentiel, retour ou remise invalide : voir les règles ci-dessus.
+L026947;CMD013474;2024-06-21;M2;INCONNU;C08540;Magasin;3;209.60000000;0.18000000;0;106.90000000;Date, quantité, référentiel, retour ou remise invalide : voir les règles ci-dessus.
+L027446;CMD013723;2024-10-11;M1;P006;C07335;Magasin;2;142.50000000;1.50000000;0;65.55000000;Date, quantité, référentiel, retour ou remise invalide : voir les règles ci-dessus.
+L027945;CMD013973;2025-02-31;M5;P040;C00188;Magasin;3;65.80000000;0.06000000;0;36.85000000;Date, quantité, référentiel, retour ou remise invalide : voir les règles ci-dessus.
+L028444;CMD014222;2024-04-28;M2;P033;C04028;Magasin;-2;19.25000000;0.10000000;0;10.78000000;Date, quantité, référentiel, retour ou remise invalide : voir les règles ci-dessus.
+L028943;CMD014472;2024-03-30;M2;INCONNU;C04921;Click & Collect;2;270.40000000;0.10000000;0;137.90000000;Date, quantité, référentiel, retour ou remise invalide : voir les règles ci-dessus.
+L029442;CMD014721;2024-07-15;M6;P013;C05818;Magasin;3;72.05000000;1.50000000;0;34.94000000;Date, quantité, référentiel, retour ou remise invalide : voir les règles ci-dessus.
+L029941;CMD014971;2025-02-31;M2;P040;C07785;Click & Collect;3;65.80000000;0.10000000;0;36.85000000;Date, quantité, référentiel, retour ou remise invalide : voir les règles ci-dessus.
+L030440;CMD015220;2024-08-12;M8;P023;C09896;Magasin;-2;270.40000000;0.06000000;0;137.90000000;Date, quantité, référentiel, retour ou remise invalide : voir les règles ci-dessus.
+L030939;CMD015470;2025-02-03;M8;INCONNU;C04113;Click & Collect;3;46.75000000;0.06000000;0;25.01000000;Date, quantité, référentiel, retour ou remise invalide : voir les règles ci-dessus.
+L031438;CMD015719;2025-07-09;M7;P034;C07461;Magasin;3;25.90000000;1.50000000;0;14.50000000;Date, quantité, référentiel, retour ou remise invalide : voir les règles ci-dessus.
+L031937;CMD015969;2025-02-31;M3;P025;C02206;Magasin;1;46.75000000;0.24000000;0;25.01000000;Date, quantité, référentiel, retour ou remise invalide : voir les règles ci-dessus.
+L032436;CMD016218;2024-03-28;M1;P037;C10196;Magasin;-2;45.85000000;0.06000000;0;25.68000000;Date, quantité, référentiel, retour ou remise invalide : voir les règles ci-dessus.
+L032935;CMD016468;2025-05-09;M2;INCONNU;C01810;Magasin;1;59.15000000;0.10000000;0;33.12000000;Date, quantité, référentiel, retour ou remise invalide : voir les règles ci-dessus.
+L033434;CMD016717;2024-12-09;M4;P003;C09703;Magasin;3;88.35000000;1.50000000;0;40.64000000;Date, quantité, référentiel, retour ou remise invalide : voir les règles ci-dessus.
+L033933;CMD016967;2025-02-31;M1;P036;C06959;Click & Collect;1;39.20000000;0.16000000;0;21.95000000;Date, quantité, référentiel, retour ou remise invalide : voir les règles ci-dessus.
+L034432;CMD017216;2024-08-16;M4;P038;C00959;Magasin;-2;52.50000000;0.14000000;0;29.40000000;Date, quantité, référentiel, retour ou remise invalide : voir les règles ci-dessus.
+L034931;CMD017466;2024-10-27;M6;INCONNU;C03433;Magasin;3;159.80000000;0.06000000;0;85.49000000;Date, quantité, référentiel, retour ou remise invalide : voir les règles ci-dessus.
+L035430;CMD017715;2024-05-20;M5;P024;C08665;Magasin;1;300.80000000;1.50000000;0;153.41000000;Date, quantité, référentiel, retour ou remise invalide : voir les règles ci-dessus.
+L035929;CMD017965;2025-02-31;M6;P024;C08675;Click & Collect;2;300.80000000;0.06000000;0;153.41000000;Date, quantité, référentiel, retour ou remise invalide : voir les règles ci-dessus.
+L036428;CMD018214;2024-01-25;M8;P036;C07734;Click & Collect;-2;39.20000000;0.16000000;0;21.95000000;Date, quantité, référentiel, retour ou remise invalide : voir les règles ci-dessus.
+L036927;CMD018464;2024-07-16;M3;INCONNU;C07873;Magasin;1;60.45000000;0.16000000;0;35.36000000;Date, quantité, référentiel, retour ou remise invalide : voir les règles ci-dessus.
+L037426;CMD018713;2025-07-13;M6;P031;C10878;Magasin;2;143.65000000;1.50000000;0;76.85000000;Date, quantité, référentiel, retour ou remise invalide : voir les règles ci-dessus.
+L037925;CMD018963;2025-02-31;M8;P016;C04666;Magasin;2;103.40000000;0.14000000;0;50.15000000;Date, quantité, référentiel, retour ou remise invalide : voir les règles ci-dessus.
+L038424;CMD019212;2024-10-07;M3;P037;C08065;Magasin;-2;45.85000000;0.14000000;0;25.68000000;Date, quantité, référentiel, retour ou remise invalide : voir les règles ci-dessus.
+L038923;CMD019462;2024-09-05;M8;INCONNU;C10404;Magasin;1;59.15000000;0.06000000;0;33.12000000;Date, quantité, référentiel, retour ou remise invalide : voir les règles ci-dessus.
+L039422;CMD019711;2025-03-15;M6;P047;C03734;Click & Collect;3;109.85000000;1.50000000;0;64.26000000;Date, quantité, référentiel, retour ou remise invalide : voir les règles ci-dessus.
+L039921;CMD019961;2025-02-31;M2;P015;C00951;Magasin;3;92.95000000;0.10000000;0;45.08000000;Date, quantité, référentiel, retour ou remise invalide : voir les règles ci-dessus.
+L040420;CMD020210;2025-04-03;M8;P020;C01990;Magasin;-2;179.20000000;0.06000000;0;91.39000000;Date, quantité, référentiel, retour ou remise invalide : voir les règles ci-dessus.
+L040919;CMD020460;2025-04-30;M3;INCONNU;C08561;Click & Collect;1;106.40000000;0.14000000;0;48.94000000;Date, quantité, référentiel, retour ou remise invalide : voir les règles ci-dessus.
+L041418;CMD020709;2025-05-20;M3;P033;C11860;Click & Collect;1;19.25000000;1.50000000;0;10.78000000;Date, quantité, référentiel, retour ou remise invalide : voir les règles ci-dessus.
+L041917;CMD020959;2025-02-31;M4;P042;C08436;Magasin;2;48.10000000;0.14000000;0;28.14000000;Date, quantité, référentiel, retour ou remise invalide : voir les règles ci-dessus.
+L042416;CMD021208;2024-06-23;M1;P036;C01188;Click & Collect;-2;39.20000000;0.06000000;0;21.95000000;Date, quantité, référentiel, retour ou remise invalide : voir les règles ci-dessus.
+L042915;CMD021458;2024-10-11;M6;INCONNU;C11328;Magasin;2;178.60000000;0.14000000;0;82.16000000;Date, quantité, référentiel, retour ou remise invalide : voir les règles ci-dessus.
+L043414;CMD021707;2024-10-09;M3;P034;C06741;Click & Collect;1;25.90000000;1.50000000;0;14.50000000;Date, quantité, référentiel, retour ou remise invalide : voir les règles ci-dessus.
+L043913;CMD021957;2025-02-31;M3;P010;C09881;Magasin;2;40.70000000;0.06000000;0;19.74000000;Date, quantité, référentiel, retour ou remise invalide : voir les règles ci-dessus.
+L044412;CMD022206;2025-07-06;M2;P039;C09599;Magasin;-2;59.15000000;0.28000000;0;33.12000000;Date, quantité, référentiel, retour ou remise invalide : voir les règles ci-dessus.
+L044911;CMD022456;2024-11-02;M4;INCONNU;C05009;Magasin;2;65.80000000;0.16000000;0;36.85000000;Date, quantité, référentiel, retour ou remise invalide : voir les règles ci-dessus.
+L045410;CMD022705;2025-04-14;M7;P033;C10962;Click & Collect;1;19.25000000;1.50000000;0;10.78000000;Date, quantité, référentiel, retour ou remise invalide : voir les règles ci-dessus.
+L045909;CMD022955;2025-02-31;M1;P041;C06054;Click & Collect;2;35.75000000;0.24000000;0;20.91000000;Date, quantité, référentiel, retour ou remise invalide : voir les règles ci-dessus.
+L046408;CMD023204;2024-04-04;M8;P016;C08910;Magasin;-2;103.40000000;0.06000000;0;50.15000000;Date, quantité, référentiel, retour ou remise invalide : voir les règles ci-dessus.
+L046907;CMD023454;2025-04-21;M6;INCONNU;C03548;Click & Collect;2;300.80000000;0.06000000;0;153.41000000;Date, quantité, référentiel, retour ou remise invalide : voir les règles ci-dessus.
+L047406;CMD023703;2025-04-05;M1;P029;C06333;Magasin;3;111.35000000;1.50000000;0;59.57000000;Date, quantité, référentiel, retour ou remise invalide : voir les règles ci-dessus.
+L047905;CMD023953;2025-02-31;M3;P007;C09083;Magasin;3;160.55000000;0.14000000;0;73.85000000;Date, quantité, référentiel, retour ou remise invalide : voir les règles ci-dessus.
+L048404;CMD024202;2025-07-17;M7;P016;C02529;Click & Collect;-2;103.40000000;0.24000000;0;50.15000000;Date, quantité, référentiel, retour ou remise invalide : voir les règles ci-dessus.
+L048903;CMD024452;2025-06-27;M2;INCONNU;C00518;Click & Collect;2;142.50000000;0.10000000;0;65.55000000;Date, quantité, référentiel, retour ou remise invalide : voir les règles ci-dessus.
+L049402;CMD024701;2024-02-22;M4;P011;C09027;Magasin;1;51.15000000;1.50000000;1;24.81000000;Date, quantité, référentiel, retour ou remise invalide : voir les règles ci-dessus.
+L049901;CMD024951;2025-02-31;M5;P014;C10609;Magasin;3;82.50000000;0.14000000;0;40.01000000;Date, quantité, référentiel, retour ou remise invalide : voir les règles ci-dessus.
+L050400;CMD025200;2024-01-29;M1;P010;C08258;Magasin;-2;40.70000000;0.24000000;0;19.74000000;Date, quantité, référentiel, retour ou remise invalide : voir les règles ci-dessus.
+L050899;CMD025450;2024-01-07;M1;INCONNU;C00232;Click & Collect;3;48.10000000;0.16000000;0;28.14000000;Date, quantité, référentiel, retour ou remise invalide : voir les règles ci-dessus.
+L051398;CMD025699;2025-05-16;M6;P039;C09930;Magasin;2;59.15000000;1.50000000;0;33.12000000;Date, quantité, référentiel, retour ou remise invalide : voir les règles ci-dessus.
+L051897;CMD025949;2025-02-31;M4;P027;C06141;Click & Collect;3;79.05000000;0.16000000;0;42.29000000;Date, quantité, référentiel, retour ou remise invalide : voir les règles ci-dessus.
+L052396;CMD026198;2024-02-01;M2;P040;C01624;Magasin;-2;65.80000000;0.10000000;0;36.85000000;Date, quantité, référentiel, retour ou remise invalide : voir les règles ci-dessus.
+L052895;CMD026448;2025-01-30;M8;INCONNU;C08523;Magasin;3;19.25000000;0.24000000;1;10.78000000;Date, quantité, référentiel, retour ou remise invalide : voir les règles ci-dessus.
+L053394;CMD026697;2025-11-20;M6;P003;C02017;Magasin;2;88.35000000;1.50000000;0;40.64000000;Date, quantité, référentiel, retour ou remise invalide : voir les règles ci-dessus.
+L053893;CMD026947;2025-02-31;M2;P019;C01057;Magasin;2;148.80000000;0.20000000;0;75.89000000;Date, quantité, référentiel, retour ou remise invalide : voir les règles ci-dessus.
+L054392;CMD027196;2024-03-26;M7;P025;C11445;Click & Collect;-2;46.75000000;0.06000000;0;25.01000000;Date, quantité, référentiel, retour ou remise invalide : voir les règles ci-dessus.
+L054891;CMD027446;2025-01-24;M1;INCONNU;C09665;Magasin;2;88.35000000;0.26000000;0;40.64000000;Date, quantité, référentiel, retour ou remise invalide : voir les règles ci-dessus.
+L055390;CMD027695;2024-03-05;M4;P015;C03336;Magasin;3;92.95000000;1.50000000;0;45.08000000;Date, quantité, référentiel, retour ou remise invalide : voir les règles ci-dessus.
+L055889;CMD027945;2025-02-31;M3;P017;C01689;Magasin;2;88.00000000;0.14000000;0;44.88000000;Date, quantité, référentiel, retour ou remise invalide : voir les règles ci-dessus.
+L056388;CMD028194;2025-09-06;M6;P034;C05244;Magasin;-2;25.90000000;0.14000000;0;14.50000000;Date, quantité, référentiel, retour ou remise invalide : voir les règles ci-dessus.
+L056887;CMD028444;2024-08-29;M6;INCONNU;C10246;Magasin;3;52.50000000;0.06000000;0;29.40000000;Date, quantité, référentiel, retour ou remise invalide : voir les règles ci-dessus.
+L057386;CMD028693;2024-04-19;M8;P021;C06823;Click & Collect;2;209.60000000;1.50000000;0;106.90000000;Date, quantité, référentiel, retour ou remise invalide : voir les règles ci-dessus.
+L057885;CMD028943;2025-02-31;M6;P032;C09451;Click & Collect;3;159.80000000;0.16000000;0;85.49000000;Date, quantité, référentiel, retour ou remise invalide : voir les règles ci-dessus.
+L058384;CMD029192;2024-06-14;M2;P024;C01071;Magasin;-2;300.80000000;0.10000000;0;153.41000000;Date, quantité, référentiel, retour ou remise invalide : voir les règles ci-dessus.
+L058883;CMD029442;2025-11-09;M4;INCONNU;C10468;Magasin;3;19.25000000;0.16000000;0;10.78000000;Date, quantité, référentiel, retour ou remise invalide : voir les règles ci-dessus.
+L059382;CMD029691;2025-06-27;M3;P028;C11586;Click & Collect;2;95.20000000;1.50000000;1;50.93000000;Date, quantité, référentiel, retour ou remise invalide : voir les règles ci-dessus.

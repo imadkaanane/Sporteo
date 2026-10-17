@@ -1,0 +1,7 @@
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+
+# Fichiers de verrouillage temporaires des rapports Office.
+~$*.xlsx
+~$*.pptx
